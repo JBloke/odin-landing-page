@@ -45,6 +45,7 @@ a {
 .main-text {
     font-size: 48px;
     font-weight: bolder;
+    margin-bottom: 8px;
 }
 
 .secondary-text {
@@ -54,6 +55,7 @@ a {
 .container {
     display: flex;
     justify-content: space-between;
+    gap: 30px;
     margin-bottom: 80px;
     flex-wrap: wrap;
 }
